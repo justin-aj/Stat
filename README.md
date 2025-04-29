@@ -1,2 +1,2 @@
-# Stat
-Repo to track my Stat learnings
+# Statistics
+Finally, I got the time to learn Statistics
